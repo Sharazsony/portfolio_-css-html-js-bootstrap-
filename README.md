@@ -84,4 +84,4 @@ Let's connect and collaborate! Feel free to reach out through any of these chann
 📧 **Email**: [sharazsony@gmail.com](mailto:sharazsony@gmail.com)  
 💻 **GitHub**: [github.com/Sharazsony](https://github.com/Sharazsony)  
 🔗 **LinkedIn**: [Your LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sharaz-soni-542381313))   
-🌐 **Portfolio**: [Live Portfolio Link](#) 
+🌐 **Portfolio**: [Live Portfolio Link](https://ubiquitous-selkie-550957.netlify.app/) 
