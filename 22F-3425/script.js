@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded', function() {
         header.classList.toggle('scrolled', window.scrollY > 50);
     });
     
-    // Intersection Observer for fade-in animations
+    // Intersection Observmmmer for fade-in animations
     const fadeElements = document.querySelectorAll('.fade-in');
     
     const observer = new IntersectionObserver((entries) => {
