@@ -61,13 +61,7 @@ A modern, responsive portfolio website showcasing my skills, projects, and conta
    ```bash
    git clone https://github.com/yourusername/portfolio.git
    cd portfolio
-## 📬 Contact
-Let's connect and collaborate! Feel free to reach out through any of these channels:
 
-📧 **Email**: [sharazsony@gmail.com](mailto:sharazsony@gmail.com)  
-💻 **GitHub**: [github.com/Sharazsony](https://github.com/Sharazsony)  
-🔗 **LinkedIn**: [Your LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sharaz-soni-542381313))   
-🌐 **Portfolio**: [Live Portfolio Link](#) *(add when deployed)*  
 
 ### Preferred Contact Method:
 - For quick questions: **GitHub Issues** or **Email**
@@ -84,11 +78,10 @@ Let's connect and collaborate! Feel free to reach out through any of these chann
 8. **License Information**
 9. **GitHub-friendly Markdown** syntax
 
-### How to Use:
-1. Copy this entire markdown content
-2. Create a new `README.md` file in your project root
-3. Paste the content
-4. Replace placeholder links and images with your actual content
-5. Customize any sections as needed
+## 📬 Contact
+Let's connect and collaborate! Feel free to reach out through any of these channels:
 
-The formatting will render beautifully on GitHub with proper sections, code blocks, and responsive layout.
+📧 **Email**: [sharazsony@gmail.com](mailto:sharazsony@gmail.com)  
+💻 **GitHub**: [github.com/Sharazsony](https://github.com/Sharazsony)  
+🔗 **LinkedIn**: [Your LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sharaz-soni-542381313))   
+🌐 **Portfolio**: [Live Portfolio Link](#) 
